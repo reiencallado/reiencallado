@@ -1,4 +1,6 @@
+<div align="center">
 # hi, i'm rei 👋
+</div>
 
 🎓 BS Computer Science | Software Technology @ De La Salle University  
 💻 interested in technology and the human side of digital experiences
