@@ -1,13 +1,15 @@
 <div align="center">
 
-# hi, i'm rei 👋
+# Hi, i'm Rei 👋
 
 **BS Computer Science | Software Technology @ De La Salle University**  
 **interested in technology, design, and the human side of digital experiences**
 
-</div>
+<hr>
 
 I'm currently building my experience through academic projects, organizations, and personal projects across software development, data, AI, and user-centered technology.
+
+</div>
 
 ### 📫 find me
 
