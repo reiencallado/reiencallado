@@ -3,7 +3,7 @@
 # Hi, I'm Rei 👋
 
 **BS Computer Science | Software Technology @ De La Salle University**  
-**interested in technology, design, and the human side of digital experiences**
+**interested in technology and the human side of digital experiences**
 
 <hr>
 
