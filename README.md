@@ -12,4 +12,4 @@ I'm currently building my experience through academic projects, organizations, a
 ### 📫 find me
 
 * 🔗LinkedIn: https://linkedin.com/in/reiencallado
-* 💌Email: (edlynnencallado@gmail.com)
+* 💌Email: edlynnencallado@gmail.com
