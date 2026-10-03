@@ -1,5 +1,7 @@
 <div align="center">
+
 # hi, i'm rei 👋
+
 </div>
 
 🎓 BS Computer Science | Software Technology @ De La Salle University  
