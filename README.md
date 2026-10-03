@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, i'm Rei 👋
+# Hi, I'm Rei 👋
 
 **BS Computer Science | Software Technology @ De La Salle University**  
 **interested in technology, design, and the human side of digital experiences**
@@ -11,7 +11,7 @@ I'm currently building my experience through academic projects, organizations, a
 
 </div>
 
-### 📫 find me
+### 🍊 find me
 
 * 🔗LinkedIn: https://linkedin.com/in/reiencallado
 * 💌Email: edlynnencallado@gmail.com
